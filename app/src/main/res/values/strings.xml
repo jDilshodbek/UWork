@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UWork</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>no_internet
+    <string name="enter">Войти</string>
+    <string name="pictures">Картинки</string>
+    <string name="username_required">Требуется логин</string>
+    <string name="must_be_six">пароль должен состоять не менее чем из 6 символов</string>
+    <string name="must_contain_capital">пароль должен содержать хотя бы один заглавный символ</string>
+    <string name="must_contain_lowercase">Пароль должен содержать хотя бы одну строчную букву</string>
+    <string name="weather_result">Город: %1$s, температура:%2$.2f, облачность:%3$d\%%, влажность:%4$d\%%</string>
+    <string name="no_internet">нет доступа в Интернет</string>
+</resources>
